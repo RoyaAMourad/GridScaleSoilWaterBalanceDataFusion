@@ -1,5 +1,6 @@
 # Grid-scale soil water balance data fusion
 [![DOI](https://zenodo.org/badge/1438360750.svg)](https://doi.org/10.5281/zenodo.23835749)
+
 This repository provides a tool for grid-scale soil water balance data fusion of a river basin used for :
 * estimating all spatial variables in the monthly 250m grid-scale 1-meter depth soil water balance model;
 * adjusting the original (prior) data sets describing each water balance variable to obtain their error-corrected (calibrated) versions.
